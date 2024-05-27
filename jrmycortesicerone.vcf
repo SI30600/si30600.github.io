@@ -1,0 +1,25 @@
+BEGIN:VCARD
+VERSION:3.0
+N:CORTESI-CERONE;Jérémy;;;
+FN:Jérémy CORTESI-CERONE
+ORG:SOLUTION INFORMATIQUE
+ADR;TYPE=WORK:11 RUE LOUIS ABAUZIT - 30600 VAUVERT
+TITLE:Gérant
+TEL;TYPE=CELL:+33769369472
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:+33769369472
+EMAIL;TYPE=WORK:contact@solutioninformatique.fr
+URL;TYPE=Digital Business Card:
+URL:https://solutioninformatique.fr
+URL;TYPE=Website:https://solutioninformatique.fr
+URL;TYPE=Store:https://solutioninformatique.etsy.com/
+URL;TYPE=Location:https://osm.org/go/xV4EkXilz?m=&way=42323221
+URL;TYPE=WhatsApp:https://wa.me/769369472
+URL;TYPE=Messenger:https://m.me/https://m.me/jeremycortesicerone
+URL;TYPE=Facebook:https://facebook.com/informatiquevauvert
+URL;TYPE=LinkedIn:https://linkedin.com/in/jérémy-cortesi-cerone-54657618b
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100425254
+END:VCARD
